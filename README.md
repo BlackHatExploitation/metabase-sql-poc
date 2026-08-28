@@ -99,7 +99,3 @@ before passing it to the query builder, rejecting any map/object input.
 This PoC is provided for **authorized security testing and educational
 purposes only**. Use only on systems you own or have explicit written
 permission to test. The author is not responsible for misuse.
-
-## Author
-
-Sanjar Tulkinov (Sanjarbiy) — security researcher
